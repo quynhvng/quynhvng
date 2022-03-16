@@ -13,11 +13,12 @@
 | Use              | Language |
 | ---------------- | -------- |
 | General purposes | ![Py](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python) |
-| Analysis         | ![R](https://img.shields.io/badge/-R-white?style=flat-square&logo=r&labelColor=276DC3) |
-| Web development  | ![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=javascript&labelColor=black), ![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css3&logoColor=1572B6), ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5) |
+| Statistic        | ![R](https://img.shields.io/badge/-R-white?style=flat-square&logo=r&labelColor=276DC3) |
+| Web front-end    | ![JS](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=javascript&labelColor=black), ![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css3&logoColor=1572B6), ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5) |
 
 ## My favourite contents
 
 - Webcomics [@xkcd](https://xkcd.com/)
-- Analysis [@FiveThirtyEight](https://fivethirtyeight.com/)
+- Data analyses [@FiveThirtyEight](https://fivethirtyeight.com/)
 - Sustainability data [@GlobalFootprintNetwork](https://www.footprintnetwork.org/)
+- [Butterick's Pratical Typography](https://practicaltypography.com/)
